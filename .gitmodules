@@ -1,0 +1,3 @@
+[submodule "Server App/milarian"]
+	path = Server App/milarian
+	url = https://github.com/Fs02/milarian
